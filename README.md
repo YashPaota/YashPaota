@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Frontend and Fullstack Technologies.
 - 🤔 I’m love to explore new trends and always open to learning new Technologies. 
 - 📫 Feel free to reach me via gmail , twitter.
--->
