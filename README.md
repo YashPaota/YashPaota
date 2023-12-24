@@ -1,5 +1,7 @@
-#### Hi there 👋 , Welcome.
-I am Yash Paota, Aspiring Full Stack Developer From India.
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Yash Paota</b>
+
+#### Hey there, Welcome!
+I am Yash Paota, Aspiring Full Stack Developer From <b>India.</b>
 
 
 Here are some ideas to get you started:
